@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Cinema\Aggregates\" />
+    <Folder Include="Cinema\ValueObjects\" />
+    <Folder Include="City\Aggregates\" />
+    <Folder Include="City\ValueObjects\" />
+    <Folder Include="City\Repositories\" />
+    <Folder Include="Documentaries\Aggregates\" />
+    <Folder Include="Documentaries\ValueObjects\" />
+    <Folder Include="Genre\ValueObjects\" />
+    <Folder Include="Movie\Aggregates\" />
+    <Folder Include="Room\Aggregates\" />
+    <Folder Include="Sessions\Aggregates\" />
+    <Folder Include="Sessions\Repositories\" />
+    <Folder Include="Sessions\ValueObjects\" />
+    <Folder Include="TMDBMovie\ValueObjects\" />
+    <Folder Include="TvShows\Aggregates\" />
+    <Folder Include="TvShows\ValueObjects\" />
+  </ItemGroup>
+
+</Project>

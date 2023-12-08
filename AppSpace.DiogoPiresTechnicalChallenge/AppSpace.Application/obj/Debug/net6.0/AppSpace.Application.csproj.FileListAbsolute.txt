@@ -1,0 +1,17 @@
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\bin\Debug\net6.0\AppSpace.Application.deps.json
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\bin\Debug\net6.0\AppSpace.Application.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\bin\Debug\net6.0\AppSpace.Application.pdb
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\bin\Debug\net6.0\AppSpace.Domain.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\bin\Debug\net6.0\AppSpace.Infrastructure.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\bin\Debug\net6.0\AppSpace.Infrastructure.pdb
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\bin\Debug\net6.0\AppSpace.Domain.pdb
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\obj\Debug\net6.0\AppSpace.Application.csproj.AssemblyReference.cache
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\obj\Debug\net6.0\AppSpace.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\obj\Debug\net6.0\AppSpace.Application.AssemblyInfoInputs.cache
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\obj\Debug\net6.0\AppSpace.Application.AssemblyInfo.cs
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\obj\Debug\net6.0\AppSpace.Application.csproj.CoreCompileInputs.cache
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\obj\Debug\net6.0\AppSpace.Application.csproj.CopyComplete
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\obj\Debug\net6.0\AppSpace.Application.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\obj\Debug\net6.0\refint\AppSpace.Application.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\obj\Debug\net6.0\AppSpace.Application.pdb
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Application\obj\Debug\net6.0\ref\AppSpace.Application.dll

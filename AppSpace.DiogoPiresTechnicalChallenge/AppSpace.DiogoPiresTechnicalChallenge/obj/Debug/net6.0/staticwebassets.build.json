@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "le2kgZXBeHc5WNxtVyLgU36riQCwPfWnD06Lr2m69k4=",
+  "Source": "AppSpace.API",
+  "BasePath": "_content/AppSpace.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

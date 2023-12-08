@@ -1,0 +1,11 @@
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\bin\Debug\net6.0\AppSpace.Domain.deps.json
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\bin\Debug\net6.0\AppSpace.Domain.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\bin\Debug\net6.0\AppSpace.Domain.pdb
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\obj\Debug\net6.0\AppSpace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\obj\Debug\net6.0\AppSpace.Domain.AssemblyInfoInputs.cache
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\obj\Debug\net6.0\AppSpace.Domain.AssemblyInfo.cs
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\obj\Debug\net6.0\AppSpace.Domain.csproj.CoreCompileInputs.cache
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\obj\Debug\net6.0\AppSpace.Domain.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\obj\Debug\net6.0\refint\AppSpace.Domain.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\obj\Debug\net6.0\AppSpace.Domain.pdb
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Domain\obj\Debug\net6.0\ref\AppSpace.Domain.dll

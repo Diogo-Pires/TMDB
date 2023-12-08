@@ -1,0 +1,17 @@
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\bin\Debug\net6.0\AppSpace.Infrastructure.deps.json
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\bin\Debug\net6.0\AppSpace.Infrastructure.runtimeconfig.json
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\bin\Debug\net6.0\AppSpace.Infrastructure.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\bin\Debug\net6.0\AppSpace.Infrastructure.pdb
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\bin\Debug\net6.0\AppSpace.Domain.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\bin\Debug\net6.0\AppSpace.Domain.pdb
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\AppSpace.Infrastructure.csproj.AssemblyReference.cache
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\AppSpace.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\AppSpace.Infrastructure.AssemblyInfoInputs.cache
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\AppSpace.Infrastructure.AssemblyInfo.cs
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\AppSpace.Infrastructure.csproj.CoreCompileInputs.cache
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\AppSpace.Infrastructure.csproj.CopyComplete
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\AppSpace.Infrastructure.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\refint\AppSpace.Infrastructure.dll
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\AppSpace.Infrastructure.pdb
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\AppSpace.Infrastructure.genruntimeconfig.cache
+C:\AppSpaceDiogoPiresTechnicalChallenge\src\AppSpace.DiogoPiresTechnicalChallenge\AppSpace.Infrastructre\obj\Debug\net6.0\ref\AppSpace.Infrastructure.dll
